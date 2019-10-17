@@ -1,0 +1,14 @@
+C:\Users\Paulinha\AppData\Local\Temporary Projects\Projeto Medicamento\bin\Debug\Projeto Medicamento.exe.config
+C:\Users\Paulinha\Desktop\Federal\4º Semestre\ED2 - Marco A\Projeto Medicamento\Projeto Medicamento\bin\Debug\Projeto Medicamento.exe.config
+C:\Users\Paulinha\Desktop\Federal\4º Semestre\ED2 - Marco A\Projeto Medicamento\Projeto Medicamento\bin\Debug\Projeto Medicamento.exe
+C:\Users\Paulinha\Desktop\Federal\4º Semestre\ED2 - Marco A\Projeto Medicamento\Projeto Medicamento\bin\Debug\Projeto Medicamento.pdb
+C:\Users\Paulinha\Desktop\Federal\4º Semestre\ED2 - Marco A\Projeto Medicamento\Projeto Medicamento\obj\Debug\Projeto Medicamento.csprojResolveAssemblyReference.cache
+C:\Users\Paulinha\Desktop\Federal\4º Semestre\ED2 - Marco A\Projeto Medicamento\Projeto Medicamento\obj\Debug\Projeto Medicamento.exe
+C:\Users\Paulinha\Desktop\Federal\4º Semestre\ED2 - Marco A\Projeto Medicamento\Projeto Medicamento\obj\Debug\Projeto Medicamento.pdb
+C:\Users\Cintia\1-ADS\Prof Marco Aurélio - ED II\Projeto Medicamento\Projeto Medicamento\bin\Debug\Projeto Medicamento.exe.config
+C:\Users\Cintia\1-ADS\Prof Marco Aurélio - ED II\Projeto Medicamento\Projeto Medicamento\bin\Debug\Projeto Medicamento.exe
+C:\Users\Cintia\1-ADS\Prof Marco Aurélio - ED II\Projeto Medicamento\Projeto Medicamento\bin\Debug\Projeto Medicamento.pdb
+C:\Users\Cintia\1-ADS\Prof Marco Aurélio - ED II\Projeto Medicamento\Projeto Medicamento\obj\Debug\Projeto Medicamento.csprojAssemblyReference.cache
+C:\Users\Cintia\1-ADS\Prof Marco Aurélio - ED II\Projeto Medicamento\Projeto Medicamento\obj\Debug\Projeto Medicamento.csproj.CoreCompileInputs.cache
+C:\Users\Cintia\1-ADS\Prof Marco Aurélio - ED II\Projeto Medicamento\Projeto Medicamento\obj\Debug\Projeto Medicamento.exe
+C:\Users\Cintia\1-ADS\Prof Marco Aurélio - ED II\Projeto Medicamento\Projeto Medicamento\obj\Debug\Projeto Medicamento.pdb
